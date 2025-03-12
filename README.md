@@ -2,7 +2,7 @@
 
 Service data project
 
-PROBLEM STATEMENT
+PROBLEM STATEME
 
 REVENUE BY REGION
 
