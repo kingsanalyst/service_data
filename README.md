@@ -22,6 +22,9 @@ KEY PERFORMANCE INDICATOR (KPI)
 
 ·        Month on month revenue increase.
 
+![1740587851764](https://github.com/user-attachments/assets/f2fa3677-a5f5-4964-b18e-737d14f73f27)
+
+
 THERE ARE TWO PARTS IN THIS PROJECT
 
 Part 1
