@@ -40,3 +40,18 @@ Part2
 ·        I used Power BI for visualizations
 
 ·        Linking Power Bi to MS SQL Server 
+
+
+# Result/findings 
+•	Europe region is generating the most revenue
+•	Audit department generates the most revenue
+•	Smith Inc. is our top client.
+
+# Solution/recommendation
+Based on the analysis, I recommend the following actions 
+•	Marketing and promotion should be focused more on Europe region for more revenue generation 
+•	Invest more in Audit department to maximize revenue
+•	Smith Inc. Should be treated as important 
+# Limitations
+I had to remove duplicates on the time band column, and also changed the data types which would have affected the accuracy of the conclusion from the analysis.
+
